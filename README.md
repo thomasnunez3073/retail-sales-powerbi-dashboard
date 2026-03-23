@@ -19,7 +19,7 @@ El dashboard tiene dos páginas: la primera da una visión general del negocio y
 - ¿Hay diferencias reales entre tamaños de local?
 - ¿Qué relación existe entre el precio promedio y las ventas por categoría?
 
-## 🛠️ Stack
+## Stack
 
 - **Power BI Desktop** — visualizaciones e interactividad
 - **DAX** — KPIs y medidas personalizadas
